@@ -128,6 +128,42 @@
 		</array>
 		<key>Patch</key>
 		<array>
+			<dict>	
+				<key>Comment</key>	
+				<string>OSID to XSID (to avoid match against _OSI XOSI patch)</string>	
+				<key>Enabled</key>	
+				<true/>	
+				<key>Find</key>	
+				<data>T1NJRA==</data>	
+				<key>Replace</key>	
+				<data>WFNJRA==</data>	
+			</dict>	
+			<dict>	
+				<key>Comment</key>	
+				<string>_OSI to XOSI pair with SSDT-XOSI.aml</string>	
+				<key>Count</key>	
+				<integer>0</integer>	
+				<key>Enabled</key>	
+				<true/>	
+				<key>Find</key>	
+				<data>X09TSQ==</data>	
+				<key>Limit</key>	
+				<integer>0</integer>	
+				<key>Mask</key>	
+				<data></data>	
+				<key>OemTableId</key>	
+				<data></data>	
+				<key>Replace</key>	
+				<data>WE9TSQ==</data>	
+				<key>ReplaceMask</key>	
+				<data></data>	
+				<key>Skip</key>	
+				<integer>0</integer>	
+				<key>TableLength</key>	
+				<integer>0</integer>	
+				<key>TableSignature</key>	
+				<data>AAAAAA==</data>	
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Method(GPRW,2,N) to XPRW, pair with SSDT-GPRW.aml (Instant Wake)</string>
