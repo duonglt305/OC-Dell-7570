@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18E226</string>
+	<string>19E2269</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4.9</string>
+	<string>1.5.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,21 +25,21 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.4.9</string>
+	<string>1.5.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10E1001</string>
+	<string>11E503a</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>18E219</string>
+	<string>19E258</string>
 	<key>DTSDKName</key>
-	<string>macosx10.14</string>
+	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>1020</string>
+	<string>1141</string>
 	<key>DTXcodeBuild</key>
-	<string>10E1001</string>
+	<string>11E503a</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>HDA Hardware Config Resource</key>
@@ -4851,7 +4851,7 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
-					<string>Realtek ALC283 for DELL R14 3437 by Zoran</string>
+					<string>Realtek ALC283 for DELL R14 3437 by xiaoleGun(zoran)</string>
 					<key>CodecID</key>
 					<integer>283902595</integer>
 					<key>ConfigData</key>
@@ -5702,14 +5702,14 @@
 					<integer>283902613</integer>
 					<key>ConfigData</key>
 					<data>
-					ASccIAEnHQEBJx6mAScfkAE3HPABNx0AATce
-					AAE3H0ABRxxAAUcdAQFHHhcBRx+QAUcMAgFn
-					HPABZx0AAWceAAFnH0ABdxzwAXcdAAF3HgAB
-					dx9AAYcc8AGHHQABhx4AAYcfQAGXHBABlx0Q
-					AZcegQGXHwIBpxzwAacdAAGnHgABpx9AAbcc
-					8AG3HQABtx4AAbcfQAHXHPAB1x0AAdceAAHX
-					H0AB5xzwAecdAAHnHgAB5x9AAhccMAIXHRAC
-					Fx4hAhcfAgIXDAI=
+					AUccEAFHHQEBRx4XAUcfkAFHDAICFxwgAhcd
+					EAIXHisCFx8EAhcMAgEnHDABJx0BASceoAEn
+					H7cBZxzwAWcdAAFnHgABZx9AAdcc8AHXHQAB
+					1x4AAdcfQAE3HPABNx0AATceAAE3H0ABdxzw
+					AXcdAAF3HgABdx9AAYcc8AGHHQABhx4AAYcf
+					QAGXHPABlx0RAZceiwGXHwEBpxzwAacdAAGn
+					HgABpx9AAbcc8AG3HQABtx4AAbcfQAHnHPAB
+					5x0AAeceAAHnH0A=
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
@@ -11485,6 +11485,8 @@
 			<string>IOKit</string>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.8</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2017 vit9696. All rights reserved.</string>
 	<key>OSBundleCompatibleVersion</key>
