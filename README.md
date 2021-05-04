@@ -1,5 +1,5 @@
 # OC-Dell-7570-Hackintosh
-Catalina for Dell Inspiron 7570 (Current version: BigSur 10.16 Beta 9)
+Dell Inspiron 7570 (Current version: BigSur 11.2)
 ## Configuration
 * Processor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (Kaby Lake-R)
 * QE/CI: Yes
@@ -11,7 +11,7 @@ Catalina for Dell Inspiron 7570 (Current version: BigSur 10.16 Beta 9)
 * Touchpad: Working with Interrupt mode
 * Fn Feature: Working
 * Bluetooth: Working
-* Wireless Card: Intel(R) Dual Band Wireless-AC 7265 (InProgress Development) replaced to DW1560
-* OC Version: 0.6.2
+* Wireless Card: [Intel(R) Dual Band Wireless-AC 7265](https://openintelwireless.github.io/itlwm/) replaced to DW1560
+* OC Version: 0.6.9
 
 *Make your hackintosh the better please contribute with me, because my hackintosh have some error not yet fix.*
